@@ -1,6 +1,6 @@
 /*!
  * TimeSpanjs v1.0.0
- * https://github.com/abayaz61/TimeSpan
+ * https://github.com/abayaz61/TimeSpanJs
  * Powered by Abdullah AYAZ
  * Released under the MIT license
  */
